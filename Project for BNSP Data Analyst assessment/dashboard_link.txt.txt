@@ -1,0 +1,6 @@
+Dashboard Visualisasi – E-Commerce Sales & Customer Analysis
+
+Tools: Looker Studio
+
+Link Dashboard:
+https://lookerstudio.google.com/reporting/d94e236c-0ca8-4e93-90e5-c8950ee538ff
