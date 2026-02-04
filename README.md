@@ -85,9 +85,9 @@ Visualisasi mencakup:
 5. Ekspansi pasar ke negara Eropa selain UK berdasarkan potensi revenue.
 
 ### Struktur Folder
-Project for BNSP Data Analyst assessment/
-└── bnsp_data_analyst_analysis.ipynb
-└── dataset.csv
+Project for BNSP Data Analyst assessment/ 
+-> bnsp_data_analyst_analysis.ipynb
+-> dataset.csv
 
 
 ### Cara Menjalankan Project  
