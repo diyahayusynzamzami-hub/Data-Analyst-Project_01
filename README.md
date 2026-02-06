@@ -94,5 +94,5 @@ Project for BNSP Data Analyst assessment/
 
 ---
 
-Project ini menunjukkan proses end-to-end Data Analytics mulai dari data cleaning, exploratory data analysis, segmentasi pelanggan, visualisasi dashboard, hingga rekomendasi bisnis. Silahkan membaca porfolio data analyst project saya. jika ada saran, kritik maupun insight baru silahkan disampaikan, saya terbuka untuk selalu belajar lebih baik dan lebih banyak. ilmu Pengetahuan tidak akan bisa dicapai tanpa adanya data.
+Project ini menunjukkan proses end-to-end Data Analytics mulai dari data cleaning, exploratory data analysis, segmentasi pelanggan, visualisasi dashboard, hingga rekomendasi bisnis. Silahkan membaca portfolio data analyst project saya. jika ada saran, kritik maupun insight baru silahkan disampaikan, saya terbuka untuk selalu belajar lebih baik dan lebih banyak. ilmu Pengetahuan tidak akan bisa dicapai tanpa adanya data.
 
